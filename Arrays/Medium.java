@@ -443,3 +443,75 @@ class Solution {
         return (int) maxi;
     }
 }
+
+
+
+
+
+
+// Stock Buy And Sell
+// Problem Statement: You are given an array of prices where prices[i] 
+// is the price of a given stock on an ith day. You want to maximize your 
+//     profit by choosing a single day to buy one stock and choosing a different day 
+//     in the future to sell that stock. Return the maximum profit you can achieve 
+//     from this transaction. If you cannot achieve any profit, return 0.
+
+// Input: prices = [7,1,5,3,6,4]
+// Output: 5
+// Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
+
+
+//Brute
+class Solution {
+    // Function to calculate max profit using brute force
+    public int stockbuySell(int[] prices) {
+        // Initialize max profit to 0
+        int maxProfit = 0;
+
+        // Loop through each day as a potential buy day
+        for (int i = 0; i < prices.length; i++) {
+            // Loop through each future day as a potential sell day
+            for (int j = i + 1; j < prices.length; j++) {
+                // Calculate profit
+                int profit = prices[j] - prices[i];
+
+                // Update max profit if higher
+                maxProfit = Math.max(maxProfit, profit);
+            }
+        }
+
+        // Return the maximum profit
+        return maxProfit;
+    }
+}
+
+
+
+
+
+//Optimal
+class Solution {
+    // Function to calculate maximum profit using single pass
+    public int stockbuySell(int[] prices) {
+        // Initialize the minimum price to a large number
+        int minPrice = Integer.MAX_VALUE;
+
+        // Initialize the maximum profit to 0
+        int maxProfit = 0;
+
+        // Traverse each price in the array
+        for (int price : prices) {
+            // If current price is less than minPrice, update minPrice
+            if (price < minPrice) {
+                minPrice = price;
+            }
+            // Else calculate profit and update maxProfit if it's greater
+            else {
+                maxProfit = Math.max(maxProfit, price - minPrice);
+            }
+        }
+
+        // Return the maximum profit found
+        return maxProfit;
+    }
+}
