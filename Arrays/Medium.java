@@ -515,3 +515,50 @@ class Solution {
         return maxProfit;
     }
 }
+
+
+
+
+
+
+// Rearrange Array Elements by Sign
+
+// Problem Statement: There’s an array ‘A’ of size ‘N’ with an equal number of positive 
+//     and negative elements. Without altering the relative order of positive and negative 
+//     elements, you must return an array of alternately positive and negative values.
+
+
+// Input:
+// arr[] = {1,2,-4,-5}, N = 4
+// Output:
+// 1 -4 2 -5
+// Explanation: 
+// Positive elements = 1,2
+// Negative elements = -4,-5
+// To maintain relative ordering, 1 must occur before 2, and -4 must occur before -5.
+
+
+//Brute
+class ArrayManipulator {
+    // Method to rearrange elements so that positives and negatives alternate
+    public int[] rearrangeBySign(int[] A, int n) {
+        List<Integer> pos = new ArrayList<>();
+        List<Integer> neg = new ArrayList<>();
+
+        // Step 1: Separate positives and negatives
+        for (int i = 0; i < n; i++) {
+            if (A[i] > 0)
+                pos.add(A[i]); // Add to positives
+            else
+                neg.add(A[i]); // Add to negatives
+        }
+
+        // Step 2: Place positives at even indices and negatives at odd indices
+        for (int i = 0; i < n / 2; i++) {
+            A[2 * i] = pos.get(i);       // Even index → positive
+            A[2 * i + 1] = neg.get(i);   // Odd index → negative
+        }
+
+        return A;
+    }
+
