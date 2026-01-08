@@ -21,7 +21,6 @@ class Solution{
     }
 }
 
-
 //Better Approach: O(n) time complexity using HashMap
 
 class Solution{
@@ -594,3 +593,4 @@ public class ArrayManipulator {
         return ans;
     }
 }
+
