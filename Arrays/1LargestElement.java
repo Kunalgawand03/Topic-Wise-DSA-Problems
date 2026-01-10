@@ -17,7 +17,6 @@
 
 // Explanation: The largest element in array is 99
 
-
 class Solution {
     public int largestElement(int[] nums) {
         int largest = nums[0];
@@ -31,3 +30,4 @@ class Solution {
         return largest;
     }
 }
+
