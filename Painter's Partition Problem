@@ -1,6 +1,6 @@
 public class PainterPartition {
     public int countPainters(int[] boards, int time) {
-        int painters = 1;         // Start with one painter
+        int painters = 1;       
         int boardsPainter = 0;    
 
         for (int board : boards) {
