@@ -1,0 +1,33 @@
+public class PainterPartition {
+    public int countPainters(int[] boards, int time) {
+        int painters = 1;         // Start with one painter
+        int boardsPainter = 0;    
+
+        for (int board : boards) {
+            if (boardsPainter + board <= time) {
+                // Assign board to current painter
+                boardsPainter += board;
+            } else {
+                // Assign board to next painter
+                painters++;
+                boardsPainter = board;
+            }
+        }
+
+        return painters;
+    }
+
+   
+    public int findLargestMinDistance(int[] boards, int k) {
+        int low = Arrays.stream(boards).max().getAsInt();  // Largest single board
+        int high = Arrays.stream(boards).sum();            // Sum of all boards
+
+        for (int time = low; time <= high; time++) {
+            if (countPainters(boards, time) <= k) {
+                return time;  // Found a valid minimum time
+            }
+        }
+
+        return low;  // Fallback (shouldn't usually reach here)
+    }
+}
