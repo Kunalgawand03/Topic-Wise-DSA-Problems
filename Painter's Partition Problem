@@ -19,12 +19,12 @@ public class PainterPartition {
 
    
     public int findLargestMinDistance(int[] boards, int k) {
-        int low = Arrays.stream(boards).max().getAsInt();  // Largest single board
-        int high = Arrays.stream(boards).sum();            // Sum of all boards
+        int low = Arrays.stream(boards).max().getAsInt();  
+        int high = Arrays.stream(boards).sum();          
 
         for (int time = low; time <= high; time++) {
             if (countPainters(boards, time) <= k) {
-                return time;  // Found a valid minimum time
+                return time; 
             }
         }
 
