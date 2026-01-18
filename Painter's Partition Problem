@@ -28,6 +28,6 @@ public class PainterPartition {
             }
         }
 
-        return low;  // Fallback (shouldn't usually reach here)
+        return low;  
     }
 }
