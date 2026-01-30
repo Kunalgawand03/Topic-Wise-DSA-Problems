@@ -1,0 +1,47 @@
+import java.util.*;
+
+class Node {
+    int data;
+    Node next, prev;
+
+    Node(int d) {
+        data = d;
+        next = prev = null;
+    }
+}
+
+class Solution {
+
+    // Find tail of DLL
+    Node findTail(Node head) {
+        while (head.next != null)
+            head = head.next;
+        return head;
+    }
+
+    // Find pairs with given sum
+    ArrayList<ArrayList<Integer>> findPairs(Node head, int k) {
+        ArrayList<ArrayList<Integer>> ans = new ArrayList<>();
+        if (head == null) return ans;
+
+        Node left = head;
+        Node right = findTail(head);
+
+        while (left != null && right != null && left != right && right.next != left) {
+            int sum = left.data + right.data;
+
+            if (sum == k) {
+                ans.add(new ArrayList<>(Arrays.asList(left.data, right.data)));
+                left = left.next;
+                right = right.prev;
+            } 
+            else if (sum < k) {
+                left = left.next;
+            } 
+            else {
+                right = right.prev;
+            }
+        }
+        return ans;
+    }
+}
