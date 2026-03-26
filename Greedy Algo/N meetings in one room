@@ -1,0 +1,22 @@
+class Solution {
+    public int maxMeetings(int[] start, int[] end) {
+        List <int []> meetings = new ArrayList<>();
+
+        for(int i = 0; i< start.length ; i++){
+            meetings.add(new int[] {end[i], start[i], i+1});
+        }
+
+        meetings.sort(Comparator.comparingInt(a-> a[0]));
+
+        List<Integer> result = new ArrayList<>();
+        int LastEnd= -1;
+
+        for(int []m : meetings){
+            if(m[1] > LastEnd){
+                result.add(m[2]);
+                LastEnd = m[0];
+            }
+        }
+        return result;
+    }
+}
