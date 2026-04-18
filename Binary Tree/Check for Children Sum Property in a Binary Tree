@@ -1,0 +1,51 @@
+class Solution {
+    void checkChildrenSum(TreeNode root) { 
+        if (root == null) {
+            return;
+        }
+
+        int child = 0;
+        if (root.left != null) {
+            child += root.left.val;
+        }
+        if (root.right != null) {
+            child += root.right.val;
+        }
+
+        if (child >= root.val) {
+            root.val = child;
+        } else {
+            if (root.left != null) {
+                root.left.val = root.val;
+            } else if (root.right != null) {
+                root.right.val = root.val;
+            }
+        }
+        
+        checkChildrenSum(root.left);
+        checkChildrenSum(root.right);
+
+        int tot = 0;
+        if (root.left != null) {
+            tot += root.left.val;
+        }
+        if (root.right != null) {
+            tot += root.right.val;
+        }
+
+        if (root.left != null || root.right != null) {
+            root.val = tot;
+        }
+    }
+}
+
+class TreeTraversal {
+    public static void inorderTraversal(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+        inorderTraversal(root.left);
+        System.out.print(root.val + " ");
+        inorderTraversal(root.right);
+    }
+}
