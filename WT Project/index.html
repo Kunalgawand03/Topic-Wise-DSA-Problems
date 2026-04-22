@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Submit Doubt – Live Lecture Doubt Board</title>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<!-- Ambient Orbs -->
+<div class="bg-orbs">
+  <span></span><span></span><span></span>
+</div>
+
+<div class="wrapper">
+
+  <!-- Header -->
+  <header class="header">
+    <div class="logo">
+      <div class="logo-icon">🎓</div>
+      <div class="logo-text">Doubt<span>Board</span></div>
+    </div>
+    <div class="room-badge">
+      <span class="room-dot"></span>
+      <span id="room-id-display">Room: —</span>
+    </div>
+  </header>
+
+  <!-- Info Strip -->
+  <div class="info-strip">
+    <div class="info-card">
+      <div class="info-label">Teacher</div>
+      <div class="info-value" id="info-teacher">Dr. Patil</div>
+    </div>
+    <div class="info-card">
+      <div class="info-label">Subject</div>
+      <div class="info-value" id="info-subject">DBMS</div>
+    </div>
+    <div class="info-card">
+      <div class="info-label">Doubts Submitted</div>
+      <div class="info-value" id="info-count">0</div>
+    </div>
+  </div>
+
+  <!-- Main Form Card -->
+  <div class="card">
+    <div class="card-title">
+      <span class="card-title-icon">✏️</span> Submit Your Doubt
+    </div>
+
+    <!-- Student Name -->
+    <div class="field">
+      <label for="student-name">Your Name</label>
+      <input type="text" id="student-name" placeholder="e.g. Amit Sharma" maxlength="50" autocomplete="off"/>
+      <div class="validation-msg" id="name-msg"></div>
+    </div>
+
+    <!-- Doubt Text -->
+    <div class="field">
+      <label for="doubt-text">Your Doubt</label>
+      <div class="textarea-wrap">
+        <textarea id="doubt-text" placeholder="Type your doubt clearly… e.g. What is normalization in DBMS?" maxlength="500"></textarea>
+        <span class="char-counter" id="char-counter">0 / 500</span>
+      </div>
+      <div class="progress-bar"><div class="progress-fill" id="progress-fill"></div></div>
+      <div class="validation-msg" id="doubt-msg"></div>
+    </div>
+
+    <!-- AI Action Buttons -->
+    <div class="ai-btn-row">
+      <button class="btn-ai" id="btn-enhance" onclick="enhanceDoubt()">
+        ✨ AI Enhance
+      </button>
+      <button class="btn-ai" id="btn-tags" onclick="autoTag()">
+        🏷️ Auto Tag
+      </button>
+      <button class="btn-ai" id="btn-grammar" onclick="grammarCheck()">
+        📝 Grammar Check
+      </button>
+    </div>
+
+    <!-- AI Output Box -->
+    <div class="ai-box" id="ai-box">
+      <div class="ai-box-header">✦ AI Suggestion</div>
+      <div id="ai-box-content"></div>
+    </div>
+
+    <!-- Tags -->
+    <div class="tags-area">
+      <div class="tags-label">Tags (click to toggle)</div>
+      <div class="tags-wrap" id="tags-wrap">
+        <span class="tag" onclick="toggleTag(this)">Conceptual</span>
+        <span class="tag" onclick="toggleTag(this)">Numerical</span>
+        <span class="tag" onclick="toggleTag(this)">Definition</span>
+        <span class="tag" onclick="toggleTag(this)">Example</span>
+        <span class="tag" onclick="toggleTag(this)">Diagram</span>
+        <span class="tag" onclick="toggleTag(this)">Revision</span>
+      </div>
+    </div>
+
+    <!-- Submit Button -->
+    <br/>
+    <button class="submit-btn" id="submit-btn" onclick="submitDoubt()">
+      <div class="btn-inner">
+        <div class="spinner" id="btn-spinner"></div>
+        <span id="btn-text">🚀 Submit Doubt</span>
+      </div>
+    </button>
+  </div>
+
+  <!-- Submitted Doubts History -->
+  <div class="history-card">
+    <div class="history-title">📋 Your Submitted Doubts (This Session)</div>
+    <div id="doubt-history">
+      <div class="empty-state">No doubts submitted yet. Ask away! 💡</div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Toast -->
+<div class="toast" id="toast">
+  <span class="toast-icon">✅</span>
+  <span class="toast-text"><strong>Doubt submitted!</strong> Teacher can see it now.</span>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Doubt Board</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>📚 Doubt Board</h1>
+  <p class="subtitle">Submit your doubts during the live lecture</p>
+
+  <!-- Info Section -->
+  <div class="info-bar">
+    <span>👨‍🏫 Teacher: <strong>Dr. Patil</strong></span>
+    <span>📖 Subject: <strong>DBMS</strong></span>
+    <span>✅ Submitted: <strong id="count">0</strong></span>
+  </div>
+
+  <!-- Form -->
+  <div class="form-box">
+    <label for="student-name">Your Name</label>
+    <input type="text" id="student-name" placeholder="e.g. Amit Sharma" />
+
+    <label for="doubt-text">Your Doubt</label>
+    <textarea id="doubt-text" placeholder="Type your doubt here..."></textarea>
+
+    <!-- AI Buttons -->
+    <div class="ai-buttons">
+      <button onclick="enhanceDoubt()">✨ AI Enhance</button>
+      <button onclick="autoTag()">🏷️ Auto Tag</button>
+      <button onclick="grammarCheck()">📝 Grammar Check</button>
+    </div>
+
+    <!-- AI Output Box -->
+    <div id="ai-result" class="ai-result" style="display:none;">
+      <strong>AI Says:</strong>
+      <p id="ai-text"></p>
+      <button id="use-btn" onclick="useSuggestion()" style="display:none;">✓ Use This</button>
+    </div>
+
+    <!-- Tags -->
+    <div class="tags">
+      <span class="tag" onclick="toggleTag(this)">Conceptual</span>
+      <span class="tag" onclick="toggleTag(this)">Numerical</span>
+      <span class="tag" onclick="toggleTag(this)">Definition</span>
+      <span class="tag" onclick="toggleTag(this)">Example</span>
+    </div>
+
+    <button class="submit-btn" onclick="submitDoubt()">🚀 Submit Doubt</button>
+    <p id="error-msg" class="error"></p>
+  </div>
+
+  <!-- History -->
+  <div class="history-box">
+    <h2>📋 Submitted Doubts</h2>
+    <div id="history">
+      <p class="empty">No doubts yet. Go ahead and ask! 💡</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
