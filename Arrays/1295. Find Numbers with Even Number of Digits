@@ -1,0 +1,19 @@
+class Solution {
+    public int findNumbers(int[] nums) {
+                    int cnt =0;
+
+        int dig = 0;
+        for(int num: nums){
+            int temp = num;
+            while(temp>0){
+                temp/=10;
+                dig++;
+            }
+        if(dig % 2 ==0){
+            cnt++;
+        }
+        }
+
+        return cnt;
+    }
+}
