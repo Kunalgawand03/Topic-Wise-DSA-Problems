@@ -1,0 +1,11 @@
+class Solution {
+    public int sumOfGoodIntegers(int n, int k) {
+        int totsum =0;
+        for(int x = n-k ; x<=n+k ;x++){
+            if(x>=1 && (n & x)==0){
+                totsum+=x;
+            }
+        }
+        return totsum;
+    }
+}©leetcode
