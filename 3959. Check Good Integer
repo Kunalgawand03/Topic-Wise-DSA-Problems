@@ -1,0 +1,18 @@
+class Solution {
+    public boolean checkGoodInteger(int n) {
+        int squareSum = 0;
+        int digitSum = 0;
+        while(n > 0){
+            int dig = n % 10;
+            digitSum += dig;
+            squareSum += dig * dig;
+
+            n/=10;
+        }
+        if(squareSum - digitSum >= 50){
+                return true;
+        }
+        return false;
+        
+    }
+}
