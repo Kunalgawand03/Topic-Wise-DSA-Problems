@@ -1,7 +1,6 @@
 class Solution {
     public int candy(int[] ratings) {
         int n = ratings.length;
-
         int candies = n;
         int i = 1;
         while(i<n){
