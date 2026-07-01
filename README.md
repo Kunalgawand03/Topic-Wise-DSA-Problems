@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
