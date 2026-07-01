@@ -32,4 +32,9 @@
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [1920-build-array-from-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
