@@ -34,6 +34,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1920-build-array-from-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 ## Queue
 |  |
 | ------- |
