@@ -11,6 +11,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -40,10 +41,12 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1920-build-array-from-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
