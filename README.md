@@ -10,6 +10,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
