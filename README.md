@@ -33,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0076-minimum-window-substring) |
@@ -44,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
