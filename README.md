@@ -37,11 +37,13 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0905-sort-array-by-parity](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
