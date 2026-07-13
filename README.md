@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Array
@@ -111,4 +112,12 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
