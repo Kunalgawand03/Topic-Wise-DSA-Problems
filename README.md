@@ -116,8 +116,10 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
