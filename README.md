@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
@@ -124,5 +125,6 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
