@@ -23,6 +23,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0125-valid-palindrome) |
@@ -77,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
@@ -141,5 +143,6 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
