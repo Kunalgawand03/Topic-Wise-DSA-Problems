@@ -28,6 +28,7 @@
 | [0076-minimum-window-substring](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
 |  |
@@ -103,6 +104,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,4 +147,5 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
