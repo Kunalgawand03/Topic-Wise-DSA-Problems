@@ -67,6 +67,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1920-build-array-from-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -151,4 +152,9 @@
 | [0032-longest-valid-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
