@@ -29,6 +29,7 @@
 | [0076-minimum-window-substring](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
@@ -151,10 +152,15 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0856-score-of-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Design
 |  |
 | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
