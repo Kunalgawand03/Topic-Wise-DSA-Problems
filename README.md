@@ -65,6 +65,7 @@
 | [0485-max-consecutive-ones](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0641-design-circular-deque) |
 | [0905-sort-array-by-parity](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -141,6 +143,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0641-design-circular-deque) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0641-design-circular-deque) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Bracket Sequences
 |  |
