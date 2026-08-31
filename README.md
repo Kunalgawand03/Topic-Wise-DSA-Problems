@@ -59,6 +59,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
