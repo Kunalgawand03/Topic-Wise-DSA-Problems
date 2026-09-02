@@ -17,6 +17,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0905-sort-array-by-parity) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -148,6 +149,7 @@
 | [0622-design-circular-queue](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0641-design-circular-deque) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0856-score-of-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
