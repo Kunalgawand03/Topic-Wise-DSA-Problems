@@ -168,6 +168,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0445-add-two-numbers-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0856-score-of-parentheses](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0622-design-circular-queue](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0641-design-circular-deque) |
+| [0901-online-stock-span](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Bracket Sequences
 |  |
@@ -185,8 +187,13 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
