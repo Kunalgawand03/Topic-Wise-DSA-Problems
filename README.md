@@ -56,6 +56,7 @@
 | [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0069-sqrtx) |
 | [0445-add-two-numbers-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -115,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
@@ -212,4 +214,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
