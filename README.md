@@ -9,6 +9,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
