@@ -53,6 +53,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
 | [0445-add-two-numbers-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -62,6 +63,7 @@
 | [0001-two-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0901-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
