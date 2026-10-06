@@ -214,8 +214,21 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0069-sqrtx) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
