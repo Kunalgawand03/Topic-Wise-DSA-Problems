@@ -74,6 +74,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0485-max-consecutive-ones](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0622-design-circular-queue](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0622-design-circular-queue) |
@@ -211,11 +212,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 ## Newton's Method
 |  |
@@ -224,11 +227,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
 ## Graph Theory
