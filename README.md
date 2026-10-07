@@ -83,6 +83,7 @@
 | [0905-sort-array-by-parity](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1920-build-array-from-permutation](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1920-build-array-from-permutation) |
@@ -214,6 +215,7 @@
 | [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
