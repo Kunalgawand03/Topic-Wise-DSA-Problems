@@ -77,6 +77,7 @@
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0485-max-consecutive-ones](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0542-01-matrix) |
 | [0622-design-circular-queue](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0641-design-circular-deque) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
@@ -104,6 +105,7 @@
 | [0045-jump-game-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0045-jump-game-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0542-01-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/1191-k-concatenation-maximum-sum) |
 ## Queue
@@ -214,6 +216,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -236,6 +239,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0994-rotting-oranges) |
