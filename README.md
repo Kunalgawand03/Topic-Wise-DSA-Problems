@@ -72,6 +72,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0119-pascals-triangle-ii](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0048-rotate-image) |
+| [0130-surrounded-regions](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 ## Newton's Method
@@ -232,12 +235,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
