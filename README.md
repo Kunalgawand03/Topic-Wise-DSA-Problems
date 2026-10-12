@@ -49,6 +49,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0523-continuous-subarray-sum](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0905-sort-array-by-parity) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | [0547-number-of-provinces](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
@@ -264,4 +268,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0785-is-graph-bipartite) |
+## Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Kunalgawand03/Topic-Wise-DSA-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
